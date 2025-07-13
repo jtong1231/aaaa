@@ -253,7 +253,7 @@ class DraggableMobileActions extends StatelessWidget {
                           indent: 10,
                           endIndent: 10,
                         ),
-			  /*       
+			         
                           //添加两个按钮 
                   			IconButton(
                             color: Colors.white,
@@ -289,7 +289,7 @@ class DraggableMobileActions extends StatelessWidget {
                             splashRadius: kDesktopIconButtonSplashRadius,
                             icon: const Icon(Icons.manage_search),
                             iconSize: 24 * scale),
-                        */
+                        
                         const VerticalDivider(
                           width: 0,
                           thickness: 2,
